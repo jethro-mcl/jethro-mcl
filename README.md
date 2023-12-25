@@ -13,7 +13,7 @@
 - Add changes from the working directory to the staging area.
 - Example:
 ```bash
-git add README.md
+git add .
 ```
 
 ### 2. git commit
